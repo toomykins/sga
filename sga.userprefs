@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="sga/sga.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="sga/Game.cs">
+    <Files>
+      <File FileName="sga/Program.cs" Line="11" Column="1" />
+      <File FileName="sga/Game.cs" Line="10" Column="8" />
+      <File FileName="sga/ContentPipe.cs" Line="45" Column="50" />
+      <File FileName="sga/Texture2D.cs" Line="29" Column="3" />
+      <File FileName="sga/View.cs" Line="37" Column="34" />
+      <File FileName="sga/Spritebatch.cs" Line="40" Column="115" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,5 @@
+/home/wew/sga/sga/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/wew/sga/sga/bin/Debug/sga.exe.mdb
+/home/wew/sga/sga/bin/Debug/sga.exe
+/home/wew/sga/sga/obj/x86/Debug/sga.exe
+/home/wew/sga/sga/obj/x86/Debug/sga.exe.mdb
